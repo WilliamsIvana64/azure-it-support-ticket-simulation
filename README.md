@@ -57,6 +57,16 @@
 
 - Screenshots are included below to document each step of the validation process, from resource creation to cleanup.
 
+### Subscription Upgrade to Basic
+![Subscription Upgrade](https://raw.githubusercontent.com/WilliamsIvana64/azure-it-support-ticket-simulation/main/01a-azure-subscription-upgrade-basic.png)
+
+### Subscription Upgrade Step Continued
+![Subscription Upgrade Continued](https://raw.githubusercontent.com/WilliamsIvana64/azure-it-support-ticket-simulation/main/01b-azure-subscription-upgrade-basic.png)
+
+### Azure Resource Account Creation Form
+![Azure Resource Account Creation](https://raw.githubusercontent.com/WilliamsIvana64/azure-it-support-ticket-simulation/main/07-azure-created-resource-account-form.png)
+
+
 ---
 
 ## Lessons Learned
