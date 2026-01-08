@@ -1,3 +1,5 @@
+![Azure IT Support Ticket Simulation](azure-it-support-ticket-simulation-banner.png)
+
 # Azure IT Support Ticket Simulation
 
 ## Project Overview
