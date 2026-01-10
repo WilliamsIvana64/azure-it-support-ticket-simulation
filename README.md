@@ -56,6 +56,29 @@
 ## Evidence
 
 - Screenshots are included below to document each step of the validation process, from resource creation to cleanup.
+
+### Azure Portal Access
+![Azure Home Dashboard](00-azure-home-dashboard.png)
+
+### Resource Group Creation
+![Create Resource Group](02-azure-create-resource-group.png)
+![Review Resource Group](04-azure-review-create-resource-group.png)
+
+### Storage Account Setup
+![Storage Account](06-azure-storage-account-a.png)
+
+### Container and File Validation
+![Containers](11-containers.png)
+![Test Container](12-test-containers.png)
+![File Write Verification](15-text-container.png)
+
+### Cost Management Review
+![Azure Cost Management](16-azure-cost-management.png)
+
+### Resource Cleanup
+![Delete Resource Group](17-delete-resource-group.png)
+![Resource Group Deleted](19-resource-group-gone.png)
+
 ---
 
 ## Lessons Learned
